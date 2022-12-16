@@ -1,4 +1,4 @@
-# Desafios
+# desafios-reactjs
 Exercícios com React
 
 01_Calculadora simples
