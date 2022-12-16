@@ -1,5 +1,5 @@
 # desafios-reactjs
-Exercícios com React
+Exercícios de React
 
 01_Calculadora simples
 02_Wiki de repos do git
